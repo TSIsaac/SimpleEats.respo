@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "220066907253",
+    "project_id": "isaacokomanyp1",
+    "storage_bucket": "isaacokomanyp1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220066907253:android:37199c8be8c197f15ba43c",
+        "android_client_info": {
+          "package_name": "com.example.project1_mobdev_isaac_917573064"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClkfO7wNG74oAkWJ5g2ak1KGaYZUlde0g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
